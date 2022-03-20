@@ -1,0 +1,9 @@
+.play{
+
+    width:200px ; 
+    border-radius: 50%;
+    position: relative;
+    top: -50%;
+    cursor: pointer;
+    transition: 0.10s;
+}
